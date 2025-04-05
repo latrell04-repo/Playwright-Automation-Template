@@ -5,7 +5,7 @@ This repository serves as a template for automated browser testing using **Playw
 ## Features:
 
 - **Pre-configured Playwright setup**: Implemented Page Objects Model, utilizing Fixtures and Constants for better structure and maintainability.
-- **Cross-browser testing**: Supports Chromium, MS Edgar, Firefox, and WebKit, allowing you to test your web applications across different browsers.
+- **Cross-browser testing**: Supports Chromium, MS Edge, Firefox, and WebKit, allowing you to test your web applications across different browsers.
 - **Example tests**: Included are sample tests to help you understand how to structure and write automated tests using Playwright.
 
 ## Sample Website Disclaimer:
