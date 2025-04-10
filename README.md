@@ -7,6 +7,8 @@ This repository serves as a template for automated browser testing using **Playw
 - **Pre-configured Playwright setup**: Implemented Page Objects Model, utilizing Fixtures and Constants for better structure and maintainability.
 - **Cross-browser testing**: Supports Chromium, MS Edge, Firefox, and WebKit, allowing you to test your web applications across different browsers.
 - **Example tests**: Included are sample tests to help you understand how to structure and write automated tests using Playwright.
+- **API Testing**: Included GET and POST API testing.
+- **MSSQL Database Testing and Query Execution**: Included MSSQL Database testing - connecting your db in Playwright and you can try to test or execute query.
 
 ## Sample Website Disclaimer:
 
@@ -15,5 +17,13 @@ The sample website used in the tests within this repository is **not owned or cr
 ## How to Use:
 
 1. **Clone this repository**:
-   ```bash
+   ```cmd
    git clone https://github.com/latrell04-repo/Playwright-Automation-Template.git
+2. **Install playwright node modules**:
+   ```cmd
+   ```current version 1.51.1
+   npm install -D @playwright/test@<version>
+   npm install -D @playwright/test@1.51.1
+
+## Happy Testing!
+
