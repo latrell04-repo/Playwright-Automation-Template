@@ -9,7 +9,7 @@ test('Successful SignIn', async ({ page, loginPage }) => {
     await loginPage.signInSuccess();
 
     //Assertions
-    await expect(page.locator('[data-test="nav-menu"]')).toContainText('test 1');
+    await expect(page.locator('[data-test="nav-menu"]')).toContainText('TEST SAMPLE');
 
 })
 

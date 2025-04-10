@@ -4,13 +4,15 @@ export const Constants = {
     urls: {
 
         // sample only
-        loginPage: 'https://practicesoftwaretesting.com'
+        loginPage: 'https://practicesoftwaretesting.com',
+        getAPIURL: 'https://api.practicesoftwaretesting.com/categories/tree',
+        postAPIURL: 'http://10.120.10.121:8080/api_jsonrpc.php'
     },
     loginCredentials: {
 
         // sample only
-        email: 'sample@gmail.com',
-        password: 'S@mpleP@ssw0rd123'
+        email: 'sampleusername@gmail.com',
+        password: 'SampleAccount123!'
     },
 
 }
