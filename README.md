@@ -22,7 +22,7 @@ The sample website used in the tests within this repository is **not owned or cr
 2. **Install playwright node modules**:
    ```cmd
    ```current version 1.51.1
-   npm install -D @playwright/test@<version>
+   ```npm install -D @playwright/test@<version>
    npm install -D @playwright/test@1.51.1
 
 ## Happy Testing!
