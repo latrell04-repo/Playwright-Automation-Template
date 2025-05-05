@@ -23,8 +23,9 @@ The sample website used in the tests within this repository is **not owned or cr
    ```cmd
    ```current version 1.51.1
    ```npm install -D @playwright/test@<version>
-   npm install -D @playwright/test@1.51.1
+   ```npm install -D @playwright/test@1.51.1
 3. **If encountered error**:
+   ```cmd
    ```You can Re-copy your playwirght config file.
    ```Or when installing the playwright node modules you can resetup the config file.
 
